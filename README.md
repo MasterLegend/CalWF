@@ -1,3 +1,3 @@
 # CalWF
-A Packge to Hand STM Data
+A Software to Hand STM Data
 Welcome
