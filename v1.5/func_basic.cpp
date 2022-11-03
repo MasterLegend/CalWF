@@ -1,6 +1,6 @@
 // Name: func_basic.cpp
 // Discribe:
-// Author: Huang Zhichao
+// Author: Master Legend
 // Time: 2021/01/22
 
 #include "func_basic.h"

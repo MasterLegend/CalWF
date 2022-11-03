@@ -1,6 +1,6 @@
 // Name: func_basic.h
 // Discribe:
-// Author: Huang Zhichao
+// Author: Master Legend
 // Time: 2021/01/22
 
 #ifndef FUNC_BASIC_H_
